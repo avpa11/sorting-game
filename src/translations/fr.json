@@ -1,0 +1,10 @@
+{
+  "title": "Trier les mots",
+  "loading": "Chargement...",
+  "instructions": "Diviser les éléments en deux colonnes",
+  "Incorrect Answers": "Réponses incorrectes:",
+  "Correct": "Tout est correct",
+  "Check answers": "Vérifier les réponses!",
+  "New start": "Recommencer",
+  "Alert": "Vous n'avez pas divisé tous les mots!"
+}
